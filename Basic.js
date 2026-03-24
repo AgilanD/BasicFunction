@@ -1,3 +1,5 @@
 function Message(){
-    console.log("Hello World");
+    return "Hello World";
 }
+
+console.lo(Message());
