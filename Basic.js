@@ -2,4 +2,8 @@ function Message(){
     return "Hello World";
 }
 
-console.lo(Message());
+function heloo(){
+    console.log("hello,.,.");
+}
+
+console.lg(Message());
